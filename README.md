@@ -32,7 +32,7 @@ This C++ program implements a movie browsing and recommendation system similar t
 - Binary Search Tree (BST): Used to organize movie data efficiently based on movie names.
 - Hash Table: Implemented for fast retrieval of movies based on release years.
 - Stacks: Utilized for maintaining collections of movies during browsing and recommendation processes.
-- Maps:Used to organize movie data based on movie name.
+- Maps:Used to organize movie data based on particular genres.
 - Linked List: Used for storing user preferences, such as preferred genres and watchlists.
 
 
