@@ -2,7 +2,6 @@
 
 ---
 
-## Description
 This C++ program implements a movie browsing and recommendation system similar to platforms like IMDb, Letterboxd, and Rotten Tomatoes. Users can browse through a collection of movies, search for movies by various criteria such as name, release date, genre, or rating, and personalize their browsing experience based on their preferred genres and ratings.
 
 ---
