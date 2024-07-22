@@ -62,7 +62,7 @@ This C++ program implements a movie browsing and recommendation system similar t
 
 ## Contributors
 - Syed Ali Murtaza
-
+- Mohammad Abdur Rahman
 ---
 
 ## Credits
